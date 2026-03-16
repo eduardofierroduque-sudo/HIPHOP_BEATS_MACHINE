@@ -39,7 +39,7 @@ Lógica y Desarrollo (Gemini): Utilizado durante toda la fase de ingeniería de 
 
 Separación de Audio (Demucs): Implementado para el aislamiento preciso de pistas, separando el beat maestro en sus componentes rítmicos y melódicos esenciales.
 
-Generación de Audio ([Nombre de la IA de audio, ej: Meta MusicGen]): Encargado de la síntesis de los sonidos y la generación inicial de las ondas de audio basándose en las variables de estilo definidas en el código.
+Generación de Audio (Meta MusicGen): Encargado de la síntesis de los sonidos y la generación inicial de las ondas de audio basándose en las variables de estilo definidas en el código.
 
 ## Instalación y Entorno Local
 
@@ -92,7 +92,7 @@ Logic and Development (Gemini): Used throughout the software engineering phase t
 
 Audio Separation (Demucs): Implemented for precise track isolation, separating the master beat into its essential rhythmic and melodic components.
 
-Audio Generation ([Name of the audio AI, e.g., Meta MusicGen]): Responsible for the synthesis of sounds and the initial generation of audio waves based on the style variables defined in the code.
+Audio Generation (Meta MusicGen): Responsible for the synthesis of sounds and the initial generation of audio waves based on the style variables defined in the code.
 
 ## Installation and Local Environment
 
