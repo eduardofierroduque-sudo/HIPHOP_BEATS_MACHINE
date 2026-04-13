@@ -21,3 +21,16 @@ hydra-core
 huggingface_hub
 transformers
 sentencepiece
+
+# 1. Herramientas base
+pip install --upgrade pip setuptools wheel
+
+# 2. Binarios de audio (Evita error de C++ en Windows)
+pip install av --only-binary=:all:
+
+# 3. Procesamiento de lenguaje
+pip install spacy
+python -m spacy download en_core_web_sm
+
+# 4. Resto de dependencias
+pip install -r requirements.txt
