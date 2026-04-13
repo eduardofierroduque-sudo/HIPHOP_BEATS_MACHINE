@@ -1,0 +1,12 @@
+# Entornos virtuales e Inteligencia Artificial
+venv/
+env/
+__pycache__/
+
+# Audios exportados (para no subir gigas de música)
+exports/
+*.wav
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
