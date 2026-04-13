@@ -1,103 +1,77 @@
-# HIPHOP BEATS MACHINE
+HIPHOP BEATS MACHINE V.3: MODULAR SYSTEM
+Por Eduardo Fierro Duque
 
-Desarrollado por Eduardo Fierro Duque.
+<img width="895" height="927" alt="image" src="https://github.com/user-attachments/assets/9ed89c07-142c-4fbe-a4e9-d94a18e47c77" />
+<img width="897" height="940" alt="image" src="https://github.com/user-attachments/assets/6506eb1b-ce72-45a5-8e58-dce88f1b148f" />
 
-Una aplicación en Python diseñada para automatizar la creación de instrumentales y ritmos urbanos utilizando Inteligencia Artificial. Este proyecto permite generar, modular y exportar pistas de audio en formato .wav, abarcando desde el clásico sonido underground y boom bap hasta variaciones como el trap y el future hip-hop.
 
-## El Planteamiento
 
-La idea principal nace de una pasión genuina por la producción musical y la necesidad de optimizar el proceso creativo. HipHop Beats Machine funciona como una herramienta de asistencia técnica y creativa para productores. En lugar de secuenciar cada elemento de percusión manualmente, el sistema interpreta parámetros de estilo, métrica y tempo para estructurar pistas completas directamente desde la terminal, entregando un punto de partida sólido para la composición y el sampling.
+Este proyecto es una estación de trabajo diseñada para automatizar la creación de ritmos urbanos utilizando inteligencia artificial. Lo que empezó como una herramienta de terminal ha evolucionado en esta versión 3 a un sistema modular completo con interfaz gráfica, permitiendo que cualquier productor o entusiasta pueda generar pistas de alta calidad sin necesidad de escribir una sola línea de código.
 
-## Estudio de Separación Especializado en Hip Hop
+¿Qué hace especial a esta herramienta?
+La producción musical suele ser un proceso largo. Esta máquina permite saltarse el bloqueo creativo generando una base sólida de hasta 60 segundos en cuestión de minutos. La gran diferencia de esta versión es su Arquitectura Modular: puedes elegir específicamente el género, el tipo de bajos (808s), el patrón de los hi-hats y hasta la atmósfera o el contexto del beat.
 
-Una de las características más potentes y diferenciadoras de esta herramienta es la integración de un módulo avanzado de separación de pistas, pensado específicamente para las necesidades de un productor urbano. Utilizando modelos de inteligencia artificial (Demucs), la máquina no solo genera el beat maestro, sino que realiza un proceso automático de "Stem Separation". 
+<img width="2559" height="1032" alt="image" src="https://github.com/user-attachments/assets/51e2d3cd-b063-49c6-8d89-e5177175a546" />
+<img width="2551" height="1033" alt="image" src="https://github.com/user-attachments/assets/d3096cf7-71b1-4518-9487-6a447b6e689f" />
 
-Este estudio de separación interno analiza la pista generada y la desglosa en cuatro canales de audio fundamentales:
-1. Drums (Aislamiento de bombos, cajas, hi-hats y percusiones)
-2. Bass (Líneas de bajo y subgraves 808s)
-3. Melody (Samples principales, sintetizadores y acompañamientos armónicos)
-4. Other (Efectos, scratches y texturas adicionales)
 
-Este método de trabajo entrega un control total sobre la mezcla final. Permite exportar cada elemento por separado a un DAW (Digital Audio Workstation) para procesarlos de manera individual, aplicar técnicas clásicas de "chopping", ecualizar el bombo y la caja con compresión paralela, o reestructurar el beat completo manteniendo la esencia del Hip Hop tradicional.
+El reto técnico: Correr IA pesada en Windows
+Uno de los mayores logros de este desarrollo fue superar las barreras de compatibilidad. Normalmente, los modelos de Meta (MusicGen) requieren librerías muy complejas de instalar en Windows. Para solucionar esto, desarrollé un "Cerebro Sintético" dentro del código que emula estas funciones avanzadas, permitiendo que el programa sea ligero y funcional en computadoras convencionales sin necesidad de configuraciones de servidor.
 
-## Metodología y Flujo de Trabajo
+Cómo funciona el flujo de trabajo
+He diseñado el sistema para que funcione como un asistente de estudio profesional:
 
-Este proyecto fue construido bajo un enfoque de desarrollo avanzado asistido por Inteligencia Artificial. La conceptualización, la resolución de problemas lógicos y la estructuración del código en Python fueron co-creados utilizando a Gemini como copiloto de programación.
+Selección Modular: Eliges entre 12 categorías diferentes para definir el ADN de tu beat.
+<img width="2504" height="531" alt="image" src="https://github.com/user-attachments/assets/7861e0e9-2af5-4b9b-bf95-fca0e01522ef" />
+<img width="2551" height="587" alt="image" src="https://github.com/user-attachments/assets/902ce217-efdf-4ff0-a53b-5de4b3717060" />
+<img width="2536" height="652" alt="image" src="https://github.com/user-attachments/assets/8659cfeb-7506-4dd1-8ec8-f3c4580fe401" />
+<img width="2505" height="576" alt="image" src="https://github.com/user-attachments/assets/850533e5-d8d2-43e1-8de9-3c333c712b83" />
+<img width="2528" height="574" alt="image" src="https://github.com/user-attachments/assets/17a08feb-a13c-4f4a-b68e-5b046ce3d3b0" />
+<img width="2533" height="597" alt="image" src="https://github.com/user-attachments/assets/194b49f0-65b4-4629-91f1-41eb95d3042a" />
+<img width="2548" height="602" alt="image" src="https://github.com/user-attachments/assets/f609dff9-a2eb-4dad-ac74-25e60e1daae0" />
+<img width="2520" height="584" alt="image" src="https://github.com/user-attachments/assets/53f218f1-04a6-43a3-aa25-3a8c89576486" />
+<img width="2497" height="582" alt="image" src="https://github.com/user-attachments/assets/432b6dc5-a72c-4b86-be28-a4e27b78f662" />
+<img width="2537" height="656" alt="image" src="https://github.com/user-attachments/assets/d987039f-008e-402a-853e-fac9ea9acb0f" />
+<img width="2528" height="768" alt="image" src="https://github.com/user-attachments/assets/03a2da52-e188-4d31-b351-5445d9ef0c7c" />
+<img width="2532" height="583" alt="image" src="https://github.com/user-attachments/assets/5720fa0b-2218-4ed9-8b9b-765ebb1cc16d" />
 
-El flujo de trabajo se dividió en cuatro fases estratégicas para asegurar un producto final robusto y profesional:
 
-1. Arquitectura y Lógica Base: Sesiones de diseño algorítmico para establecer un sistema escalable en Python, definiendo la lógica de generación y la exportación de archivos limpios a los directorios correspondientes.
-2. Modularidad de Estilos: Separación estricta del entorno de ejecución principal (main.py) y el diccionario de parámetros musicales (styles.py). Esto asegura que se puedan agregar nuevos subgéneros o modificar el groove del boom bap sin alterar el núcleo lógico del programa.
-3. Integración de Síntesis de Audio: Conexión de las directrices generadas en código con los modelos de generación sonora, traduciendo variables de tempo y textura en ondas de audio reales de alta fidelidad.
-4. Procesamiento y Separación (Post-Producción): Implementación del modelo de separación para aislar las frecuencias del archivo exportado y generar las sub-pistas (Stems) de forma automática tras la creación del beat.
+Sistema de Cola: Puedes configurar varios beats seguidos y dejar que la máquina trabaje en lote mientras haces otras cosas.
 
-## Motores de IA Utilizados
 
-Para lograr la autonomía del sistema y una calidad de estudio real, el proyecto integra Inteligencia Artificial en múltiples niveles operativos:
 
-Lógica y Desarrollo (Gemini): Utilizado durante toda la fase de ingeniería de software para estructurar la sintaxis de Python, depurar errores de consola, optimizar flujos de datos y diseñar la arquitectura modular del repositorio.
+Procesamiento Inteligente: El motor MusicGen crea el audio, y gracias al parche de optimización, el consumo de memoria se mantiene bajo control.
 
-Separación de Audio (Demucs): Implementado para el aislamiento preciso de pistas, separando el beat maestro en sus componentes rítmicos y melódicos esenciales.
+Separación de Pistas (Stems): Una vez generado el beat, el sistema puede desglosarlo en pistas independientes (Batería, Bajo, Melodía y Otros). Esto es vital para que después puedas llevar cada archivo a tu programa de edición (como FL Studio o Ableton) y mezclarlos a tu gusto.
 
-Generación de Audio (Meta MusicGen): Encargado de la síntesis de los sonidos y la generación inicial de las ondas de audio basándose en las variables de estilo definidas en el código.
+Guía de instalación rápida
+Para que todo funcione a la primera en Windows, sigue estos pasos en tu terminal:
 
-## Instalación y Entorno Local
+1. Preparar el entorno:
 
-Para replicar este proyecto y ejecutar la máquina de beats y su estudio de separación en un equipo local, es necesario contar con Python instalado y ejecutar los siguientes comandos en la terminal:
-
+Bash
 git clone https://github.com/eduardofierroduque-sudo/HIPHOP_BEATS_MACHINE.git
+cd HIPHOP_BEATS_MACHINE
+python -m venv venv
+.\venv\Scripts\activate
+2. Instalar las librerías necesarias:
+He simplificado este paso para evitar los errores comunes de compilación en Windows:
+
+Bash
+pip install --upgrade pip setuptools wheel
+pip install av --only-binary=:all:
+pip install spacy
+python -m spacy download en_core_web_sm
 pip install -r requirements.txt
+3. Iniciar la máquina:
+
+Bash
 python main.py
+Notas del desarrollador
+Primer uso: La primera vez que generes un audio, el programa descargará el modelo de inteligencia artificial de internet. Esto puede tardar unos minutos dependiendo de tu conexión, pero solo sucede una vez.
 
-------------------------------------------------------------------------------------------------------------------------------
+Hardware: Si notas que tu computadora se esfuerza mucho, puedes cambiar el modelo en el código de "large" a "small" para una mayor velocidad.
 
-# HIPHOP BEATS MACHINE
+Este proyecto fue desarrollado bajo una metodología de ingeniería asistida por IA, utilizando a Gemini para optimizar la lógica y resolver problemas de compatibilidad de sistemas.
 
-Developed by Eduardo Fierro Duque.
-
-A Python application designed to automate the creation of instrumental and urban beats using Artificial Intelligence. This project allows you to generate, modulate, and export audio tracks in .wav format, covering everything from the classic underground and boom bap sound to variations like trap and future hip-hop.
-
-## The Approach
-
-The main idea stems from a genuine passion for music production and the need to optimize the creative process. HipHop Beats Machine works as a technical and creative assistance tool for producers. Instead of manually sequencing each percussion element, the system interprets style, metric, and tempo parameters to structure complete tracks directly from the terminal, delivering a solid starting point for composition and sampling.
-
-## Hip Hop Specialized Separation Studio
-
-One of the most powerful and distinctive features of this tool is the integration of an advanced track separation module, designed specifically for the needs of an urban producer. Using artificial intelligence models (Demucs), the machine not only generates the master beat but also performs an automatic "Stem Separation" process. 
-
-This internal separation studio analyzes the generated track and breaks it down into four fundamental audio channels:
-1. Drums (Isolation of kicks, snares, hi-hats, and percussions)
-2. Bass (Basslines and 808 sub-bass)
-3. Melody (Main samples, synthesizers, and harmonic accompaniments)
-4. Other (Effects, scratches, and additional textures)
-
-This workflow delivers total control over the final mix. It allows you to export each element separately to a DAW (Digital Audio Workstation) to process them individually, apply classic chopping techniques, equalize the kick and snare with parallel compression, or restructure the entire beat while maintaining the essence of traditional Hip Hop.
-
-## Methodology and Workflow
-
-This project was built under an advanced development approach assisted by Artificial Intelligence. The conceptualization, logical problem-solving, and Python code structuring were co-created using Gemini as a programming copilot.
-
-The workflow was divided into four strategic phases to ensure a robust and professional final product:
-
-1. Core Architecture and Logic: Algorithmic design sessions to establish a scalable system in Python, defining the generation logic and the export of clean files to the corresponding directories.
-2. Style Modularity: Strict separation of the main execution environment (main.py) and the musical parameter dictionary (styles.py). This ensures that new subgenres can be added or the boom bap groove modified without altering the logical core of the program.
-3. Audio Synthesis Integration: Connecting the code-generated guidelines with sound generation models, translating tempo and texture variables into real, high-fidelity audio waves.
-4. Processing and Separation (Post-Production): Implementation of the separation model to isolate the frequencies of the exported file and generate the sub-tracks (Stems) automatically after the creation of the beat.
-
-## AI Engines Used
-
-To achieve system autonomy and real studio quality, the project integrates Artificial Intelligence at multiple operational levels:
-
-Logic and Development (Gemini): Used throughout the software engineering phase to structure Python syntax, debug console errors, optimize data flows, and design the repository's modular architecture.
-
-Audio Separation (Demucs): Implemented for precise track isolation, separating the master beat into its essential rhythmic and melodic components.
-
-Audio Generation (Meta MusicGen): Responsible for the synthesis of sounds and the initial generation of audio waves based on the style variables defined in the code.
-
-## Installation and Local Environment
-
-To replicate this project and run the beats machine and its separation studio on a local computer, you must have Python installed and run the following commands in the terminal:
-
-git clone https://github.com/eduardofierroduque-sudo/HIPHOP_BEATS_MACHINE.git
-pip install -r requirements.txt
-python main.py
+© 2026 Eduardo Fierro Duque | Beats Machine V.3 – Tecnología al servicio del ritmo.
