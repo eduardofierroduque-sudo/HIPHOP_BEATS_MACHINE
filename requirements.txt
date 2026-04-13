@@ -1,0 +1,23 @@
+# --- Núcleo de Inteligencia Artificial ---
+torch>=2.2.0
+torchvision
+torchaudio
+audiocraft
+
+# --- Procesamiento de Audio y Texto ---
+av==11.0.0
+julius
+encodec
+librosa
+spacy
+torchmetrics
+demucs
+
+# --- Interfaz Gráfica y Utilidades ---
+customtkinter
+scipy
+omegaconf
+hydra-core
+huggingface_hub
+transformers
+sentencepiece
