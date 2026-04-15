@@ -75,3 +75,13 @@ Hardware: Si notas que tu computadora se esfuerza mucho, puedes cambiar el model
 Este proyecto fue desarrollado bajo una metodología de ingeniería asistida por IA, utilizando a Gemini para optimizar la lógica y resolver problemas de compatibilidad de sistemas.
 
 © 2026 Eduardo Fierro Duque | Beats Machine V.3 – Tecnología al servicio del ritmo.
+
+Ejemplos de pistas generadas en Beats Machine v.3:
+[beat_modular_boombap_1.wav](https://github.com/user-attachments/files/26749920/beat_modular_boombap_1.wav)
+[beat_modular_boombap_2.wav](https://github.com/user-attachments/files/26749923/beat_modular_boombap_2.wav)
+[beat_modular_boombap_3.wav](https://github.com/user-attachments/files/26749928/beat_modular_boombap_3.wav)
+[beat_modular_boombap_4.wav](https://github.com/user-attachments/files/26749931/beat_modular_boombap_4.wav)
+
+
+
+
