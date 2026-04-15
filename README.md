@@ -77,6 +77,8 @@ Este proyecto fue desarrollado bajo una metodología de ingeniería asistida por
 © 2026 Eduardo Fierro Duque | Beats Machine V.3 – Tecnología al servicio del ritmo.
 
 Ejemplos de pistas generadas en Beats Machine v.3:
+
+
 [beat_modular_boombap_1.wav](https://github.com/user-attachments/files/26749920/beat_modular_boombap_1.wav)
 [beat_modular_boombap_2.wav](https://github.com/user-attachments/files/26749923/beat_modular_boombap_2.wav)
 [beat_modular_boombap_3.wav](https://github.com/user-attachments/files/26749928/beat_modular_boombap_3.wav)
